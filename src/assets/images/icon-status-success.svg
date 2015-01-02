@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-status-success</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Campaign-Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Wizard---8A---Confirmation" sketch:type="MSArtboardGroup" transform="translate(-286.000000, -318.000000)" fill="#1DE9B6">
+            <g id="Welcome-Kit-Audit" sketch:type="MSLayerGroup" transform="translate(256.000000, 94.000000)">
+                <path d="M40,224 C34.5,224 30,228.5 30,234 C30,239.5 34.5,244 40,244 C45.5,244 50,239.5 50,234 C50,228.5 45.5,224 40,224 L40,224 Z M38,239 L33,234 L34.4,232.6 L38,236.2 L45.6,228.6 L47,230 L38,239 L38,239 Z" id="icon-status-success" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
